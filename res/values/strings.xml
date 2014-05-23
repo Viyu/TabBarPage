@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TabBarPage</string>
+    
+    <string name="page_title_home">Home</string>
+    <string name="page_title_search">Search</string>
+    <string name="page_title_account">Account</string>
+    <string name="page_title_more">More</string>
+</resources>
